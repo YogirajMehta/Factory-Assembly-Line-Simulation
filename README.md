@@ -6,7 +6,8 @@ The assembly line consists of a set of workstations each of which holds a set of
 
 
 
-![Assembly Line](assemblyline.jpg)
+<img width="686" height="802" alt="image" src="https://github.com/user-attachments/assets/9547b35c-8339-47b0-89e1-1401ecf52366" />
+
 
 
 
